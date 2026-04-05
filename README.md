@@ -34,7 +34,7 @@ MRI Image → VAE (Reconstruction & Feature Learning) → Attention U-Net → Se
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - Dice Score
 - IoU (Intersection over Union)
@@ -45,7 +45,7 @@ MRI Image → VAE (Reconstruction & Feature Learning) → Attention U-Net → Se
 
 ---
 
-## 📈 Results
+## Results
 
 | Metric | Value |
 |-------|------|
